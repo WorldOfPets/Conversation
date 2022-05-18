@@ -1,5 +1,4 @@
-# Conversation
-##### Версия Coversation без изменений и правок. Основной источник расположен [здесь](https://github.com/iNPUTmice/Conversations).
+# ShariX Assist
 ## Инструкция
 1. Установить или обновить Android Studio
 2. Скачать проект, открыть его в Android Studio и дождаться пока среда соберет проект
